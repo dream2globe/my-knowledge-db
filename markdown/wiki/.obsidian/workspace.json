@@ -1,0 +1,206 @@
+{
+  "main": {
+    "id": "badcd6d8ade25246",
+    "type": "split",
+    "children": [
+      {
+        "id": "a4669985a695bf2a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb21b6f435f53c92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pages/인플레이션과 원자재 투자.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "인플레이션과 원자재 투자"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3af941ce840b3301",
+    "type": "split",
+    "children": [
+      {
+        "id": "fbeceb8301d48c4f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8595630051e1c151",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "865d037f74118e82",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "9186d70e5d4eff1b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "북마크"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8b731986c1c65841",
+    "type": "split",
+    "children": [
+      {
+        "id": "3d73c5cf09825a8d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2195b0d95acbb0cb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "pages/인플레이션과 원자재 투자.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "인플레이션과 원자재 투자 의 백링크"
+            }
+          },
+          {
+            "id": "f543f22e7c2f2d66",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "나가는 링크"
+            }
+          },
+          {
+            "id": "ba3cbe09346c74da",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
+            }
+          },
+          {
+            "id": "97c0dcc5e13d77eb",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "모든 속성"
+            }
+          },
+          {
+            "id": "150a524e5ab33366",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "개요"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 375.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "bases:새 베이스 생성하기": false,
+      "obsidian-git:Open Git source control": false,
+      "terminal:Open terminal": false
+    }
+  },
+  "active": "fb21b6f435f53c92",
+  "lastOpenFiles": [
+    "pages/하네스 프레임워크 세팅 가이드.md",
+    "pages/인플레이션과 원자재 투자.md",
+    "pages/클로드 코드 마스터 가이드.md",
+    "pages/코덱스 바이브 코딩.md",
+    "index.md",
+    "pages/Anthropic과 AI 트렌드.md",
+    "pages/오토리서치와 루프 닫기.md",
+    "pages/LLM 추론 인프라와 토큰 경제학.md",
+    "pages/Codex 바이브코딩 실전 — 하네스 엔지니어링.md",
+    "무제.base",
+    "하네스 엔지니어링 프레임워크.md",
+    "Codex 핵심 명령어 치트시트.md",
+    "2026-05-10.md",
+    "pages",
+    "무제.canvas",
+    "무제.md",
+    "Codex 바이브코딩 실전 — 하네스 엔지니어링.md",
+    "log.md"
+  ]
+}
